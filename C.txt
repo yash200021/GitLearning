@@ -1,2 +1,3 @@
 this is test for the addint to staging area
 
+This is the latest change in this git repository
